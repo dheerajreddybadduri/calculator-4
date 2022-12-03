@@ -10,9 +10,7 @@
             FontSize="Header"
             
             
-            TextColor="Black"
-            HorizontalOptions="Start" />
-        <ListView  ItemsSource="{Binding historyExpressions}" BackgroundColor="AntiqueWhite">
+
 
 
         </ListView>
